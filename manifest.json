@@ -1,9 +1,7 @@
 {
+ "background_color": "#000001",
  "display": "fullscreen",
  "name": "Micazo Casa de Ramen 1",
- "start_url": "index.html?installed=true",
- "description": "Micazo Casa de Ramen, autentica comida Japonesa.",
- "background_color": "#000001",
  "theme_color": "#000001",
  "icons": [
   {
@@ -41,5 +39,7 @@
    "sizes": "180x180",
    "src": "misc/icon180.png"
   }
- ]
+ ],
+ "start_url": "index.html?installed=true",
+ "description": "Micazo Casa de Ramen, autentica comida Japonesa."
 }
